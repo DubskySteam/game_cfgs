@@ -3,8 +3,11 @@
 ### CSGO
 
 > Competitive graphic settings
+
 > Jumpthrow hotkey (M4)
+
 > Clear decals (t)
+
 > Minimal & clean HUD
 
 Path:
@@ -13,7 +16,9 @@ Path:
 ### Apex
 
 > Competitive graphic settings (16:9)
+
 > Fast Shield Cell
+
 > Tapstrafe mwheel bind
 
 Path:
